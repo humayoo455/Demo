@@ -1,2 +1,4 @@
 # Demo
-sample Github repositary
+sample Github repository.
+<br>
+Author-Humayoo Khan
